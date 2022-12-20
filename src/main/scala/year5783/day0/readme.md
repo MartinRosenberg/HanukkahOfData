@@ -18,7 +18,7 @@ Sarah said, “Noah gave it to me a few years ago for safekeeping. It was so old
 
 “Do you think you could help me track down the rug?”
 
-She hands you a [USB drive](https://hanukkah.bluebird.sh/5783/data) labeled “Noah’s Market Database Backup”.
+She hands you a [USB drive](../../../resources/year5783) labeled “Noah’s Market Database Backup”.
 
 “Alex set up the backups to be password-protected. I can never remember the password itself, but it’s just the year in the Hebrew calendar when Alex set up the database.”
 
